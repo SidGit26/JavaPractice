@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Reversearray",
+            "request": "launch",
+            "mainClass": "Array.Reversearray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Maxitem",
+            "request": "launch",
+            "mainClass": "Array.Maxitem",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Swaparray",
+            "request": "launch",
+            "mainClass": "Array.Swaparray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Multial",
+            "request": "launch",
+            "mainClass": "Array.Multial",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "Array.Arraylist",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Array.Practice",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Multidimensional",
+            "request": "launch",
+            "mainClass": "Array.Multidimensional",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "TwodAraayinput",
+            "request": "launch",
+            "mainClass": "Array.TwodAraayinput",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Multidimensional",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.Multidimensional",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Passing",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.Passing",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Secondarr",
+            "request": "launch",
+            "mainClass": "Array.Secondarr",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Firstarray",
+            "request": "launch",
+            "mainClass": "Array.Firstarray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "Array.First",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.Questions.Armstrong",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.Questions.Prime",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "FunctionsOverloading",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.FunctionsOverloading",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "VarArgs",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.VarArgs",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Shadowing",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.Shadowing",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Scope",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.Scope",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "ChangedValue",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.ChangedValue",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.Swap",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.Sum",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Greeting",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.Greeting",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "FunctionsInJAVA.String",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java B2A_ff0934ac"
+        },
+        {
+            "type": "java",
+            "name": "Rev",
+            "request": "launch",
+            "mainClass": "Rev",
+            "projectName": "Java B2A_ff0934ac"
+        },
+        {
+            "type": "java",
+            "name": "NumCheck",
+            "request": "launch",
+            "mainClass": "NumCheck",
+            "projectName": "Java B2A_ff0934ac"
+        },
+        {
+            "type": "java",
+            "name": "Fibbo",
+            "request": "launch",
+            "mainClass": "Fibbo",
+            "projectName": "Java B2A_ff0934ac"
+        },
+        {
+            "type": "java",
+            "name": "Fibo",
+            "request": "launch",
+            "mainClass": "Fibo",
+            "projectName": "Java B2A_ff0934ac"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java B2A_ff0934ac"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java B2A_ff0934ac"
+        },
+        {
+            "type": "java",
+            "name": "Pracrice",
+            "request": "launch",
+            "mainClass": "Pracrice",
+            "projectName": "Java B2A_ff0934ac"
+        }
+    ]
+}
